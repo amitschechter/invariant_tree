@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# Logs / experiment outputs
+train_output/
+myplot
+
+# External third-party clones (not project code)
+DomainBed/
+subgroup_robustness_grows_on_trees/
